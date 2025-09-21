@@ -23,5 +23,5 @@ If the model can be made without using the package, recreate them**
  7. [ ] HDBSCAN
  8. [v] PCA
  9. [v] UMAP
-10. [ ] GBM
+10. [v] GBM
 11. [ ] LightGBM - Just the difference
