@@ -14,19 +14,19 @@ If the model can be made without using the package, recreate them**
 
 ## Recreation O/X
 
- 1. [v] Ridge
- 2. [v] LASSO
- 3. [ ] Logistic
- 4. [ ] SVM
- 5. [ ] K-means
- 6. [ ] DBSCAN
- 7. [ ] HDBSCAN
- 8. [v] PCA
- 9. [v] UMAP
-10. [v] GBM
-11. [ ] LightGBM - Just the difference
-12. [v] Attention - MQA
-13. [v] Bayesian Neural Network
-14. [x] Bayesian Attention
+[x] Ridge
+[x] LASSO
+[ ] Logistic
+[ ] SVM
+[ ] K-means
+[ ] DBSCAN
+[ ] HDBSCAN
+[x] PCA
+[x] UMAP
+[x] GBM
+[ ] LightGBM - Just the difference
+[x] Attention - MQA
+[x] Bayesian Neural Network
+[ ] Bayesian Attention
   - Explode in variance. 
   - Multihead attention heads already copes for some pdf estimation
