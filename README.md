@@ -25,8 +25,8 @@ If the model can be made without using the package, recreate them**
  9. [v] UMAP
 10. [v] GBM
 11. [ ] LightGBM - Just the difference
-12. [ ] Attention - MQA
-13. [ ] Bayesian Neural Network
-14. [ ] Bayesian Attention
+12. [v] Attention - MQA
+13. [v] Bayesian Neural Network
+14. [x] Bayesian Attention
   - Explode in variance. 
   - Multihead attention heads already copes for some pdf estimation
